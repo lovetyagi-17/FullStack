@@ -1,0 +1,11 @@
+Course Structure(3 Parts): 
+    FrontEnd-
+        HTML: Skelton of any Project.
+        CSS: Style of Skelton.
+        Angular: Action Decider(how our web will behave).
+        Tool: VS Code 
+    backend
+    Database
+
+
+

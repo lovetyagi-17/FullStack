@@ -1,0 +1,8 @@
+-> Self Closing Tag: There is no data imside so that's why we call them self closing tag.
+    1. <hr> : For Horizontal Line
+    2. <br> : Brak Tag
+
+-> Atribute: Provides Extra information to our Element.
+-> Anchor tag: To provide redirection from One Page to another.
+    "href": (Address of Destination)It tells about destination of Link or where that anchor tag will take you.
+    
